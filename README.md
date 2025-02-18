@@ -2,7 +2,7 @@
 
 A linear regression model was develop to predict annual medical insurance cost, using information such as age, sex, BMI, number of children, smoking habits and region of residence. The model was trained on historical actual annual medical charges data and evaluated for accuracy. Results indicate that the model can predict the annual medical insurance cost with an R-squared value of 0.80, suggesting a strong fit.
 
-## Background & Objective
+## Objective
 
 The objective is to build a predictive model to estimate annual medical insurance cost based on available features.
 
